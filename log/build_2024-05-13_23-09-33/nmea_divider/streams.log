@@ -1,0 +1,23 @@
+[0.554s] Invoking command in '/home/ros2_ws/src/nmea_divider': PYTHONPATH=/home/ros2_ws/build/nmea_divider/prefix_override:/home/ros2_ws/install/nmea_divider/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/nmea_divider build --build-base /home/ros2_ws/build/nmea_divider/build install --record /home/ros2_ws/build/nmea_divider/install.log --single-version-externally-managed install_data
+[0.773s] running egg_info
+[0.773s] writing ../../build/nmea_divider/nmea_divider.egg-info/PKG-INFO
+[0.774s] writing dependency_links to ../../build/nmea_divider/nmea_divider.egg-info/dependency_links.txt
+[0.774s] writing entry points to ../../build/nmea_divider/nmea_divider.egg-info/entry_points.txt
+[0.774s] writing requirements to ../../build/nmea_divider/nmea_divider.egg-info/requires.txt
+[0.774s] writing top-level names to ../../build/nmea_divider/nmea_divider.egg-info/top_level.txt
+[0.776s] reading manifest file '../../build/nmea_divider/nmea_divider.egg-info/SOURCES.txt'
+[0.777s] writing manifest file '../../build/nmea_divider/nmea_divider.egg-info/SOURCES.txt'
+[0.777s] running build
+[0.777s] running build_py
+[0.777s] copying nmea_divider/parser.py -> /home/ros2_ws/build/nmea_divider/build/lib/nmea_divider
+[0.778s] running install
+[0.778s] running install_lib
+[0.779s] copying /home/ros2_ws/build/nmea_divider/build/lib/nmea_divider/parser.py -> /home/ros2_ws/install/nmea_divider/lib/python3.10/site-packages/nmea_divider
+[0.779s] byte-compiling /home/ros2_ws/install/nmea_divider/lib/python3.10/site-packages/nmea_divider/parser.py to parser.cpython-310.pyc
+[0.780s] running install_data
+[0.780s] running install_egg_info
+[0.782s] removing '/home/ros2_ws/install/nmea_divider/lib/python3.10/site-packages/nmea_divider-0.0.0-py3.10.egg-info' (and everything under it)
+[0.782s] Copying ../../build/nmea_divider/nmea_divider.egg-info to /home/ros2_ws/install/nmea_divider/lib/python3.10/site-packages/nmea_divider-0.0.0-py3.10.egg-info
+[0.783s] running install_scripts
+[0.802s] writing list of installed files to '/home/ros2_ws/build/nmea_divider/install.log'
+[0.823s] Invoked command in '/home/ros2_ws/src/nmea_divider' returned '0': PYTHONPATH=/home/ros2_ws/build/nmea_divider/prefix_override:/home/ros2_ws/install/nmea_divider/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/nmea_divider build --build-base /home/ros2_ws/build/nmea_divider/build install --record /home/ros2_ws/build/nmea_divider/install.log --single-version-externally-managed install_data

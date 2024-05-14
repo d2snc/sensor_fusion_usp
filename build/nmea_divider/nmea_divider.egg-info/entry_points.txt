@@ -1,0 +1,3 @@
+[console_scripts]
+nmea_node = nmea_divider:main
+
