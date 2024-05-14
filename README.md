@@ -1,4 +1,4 @@
-Sensor Fusion with Foxglove
+*Sensor Fusion with Foxglove*
 
 How to run:
 
